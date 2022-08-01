@@ -52,8 +52,8 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <a target="_blank" href="https://github.com/sirval/zuri-auth-api/blob/main/public/images/zuri_register.PNG">
-                                        <iframe src="https://github.com/sirval/zuri-auth-api/blob/main/public/images/zuri_register.PNG" frameborder="0"></iframe>
-                                        {{-- <img style="width: 50%" src="https://github.com/sirval/zuri-auth-api/blob/main/public/images/zuri_register.PNG" alt="" srcset=""> --}}
+                                        
+                                        <img style="width: 50%" src="https://github.com/sirval/zuri-auth-api/blob/main/public/images/zuri_register.PNG" alt="" srcset="">
                                     </a>
                                 </div>
                             </div>
