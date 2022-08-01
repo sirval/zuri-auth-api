@@ -7,9 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Zuri Authentication API
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This a laravel 9 user authentication API. This application was designed as a test for I4G/Zuri Internship. Below are screenshot of postman result of this api.
+
+- [Postman User Registration Screenshot](https://github.com/sirval/zuri-auth-api/blob/main/public/images/zuri_login.PNG)
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
