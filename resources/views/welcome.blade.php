@@ -48,7 +48,9 @@
                                
                                 <div class="ml-4 text-lg leading-7 font-semibold"><h5>Postman Registration Screenshot</h5></div>
                             </div>
-
+                            @php
+                                header("Content-Security-Policy: default_src https://github.com/sirval/zuri-auth-api/ frame-src https://github.com/sirval/zuri-auth-api/");
+                            @endphp
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <a target="_blank" href="https://github.com/sirval/zuri-auth-api/blob/main/public/images/zuri_register.PNG">
