@@ -31,7 +31,7 @@
         </div>
         <div class="card-boday text-center">
            <br>
-            <h6>Click the button below to view all users from users api. <br>This is removed from the middleware authentication for test purposes.</h6><br>To get a single user, use the endpoint <b>/user/id</b> where id is the users id. <br><br>
+            <h6>Click the button below to view all users from users api. <br>This is removed from the middleware authentication for test purposes.</h6><br>To get a single user, use the endpoint <b>/api/v1/user/id</b> where id is the users id. <br><br>
             <a class="btn btn-primary" href="{{ route('user.users') }}">All Users
             </a>
         </div>

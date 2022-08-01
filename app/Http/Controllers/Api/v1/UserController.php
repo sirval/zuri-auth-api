@@ -69,7 +69,6 @@ class UserController extends Controller
             ], 400);
         }
         $user = User::where('email', $request->email)->first();
-
         return response()->json([
             'status' => true,
             'message' => 'User Logged In Successfully',
